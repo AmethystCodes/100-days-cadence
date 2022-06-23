@@ -17,3 +17,4 @@ Cadence is the programming language used for smart contracts on the Flow Blockch
 ### Get in Touch 💻
  * [Twitter](https://twitter.com/AmethystCodes)
  * [Buildspace](https://buildspace.so/@amethyst)
+ * [Hashnode](https://hashnode.com/@AmethystCodes)
