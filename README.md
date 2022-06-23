@@ -4,7 +4,7 @@ Here is the repo where I'm tracking my 100 days of learning, coding, and researc
 
 | Start Date | End Date |
 | :--------: | :------: |
-| 06/21/22   | ⏳       |
+| 06/22/22   | ⏳       |
 
 ### What is Cadence?
 
