@@ -6,6 +6,8 @@ Here is the repo where I'm tracking my 100 days of learning, coding, and researc
 | :--------: | :------: |
 | 06/22/22   | ⏳       |
 
+**Study Plan:** Minimum of 1 hour per day coding/reading/videos
+
 ### What is Cadence?
 
 Cadence is the programming language used for smart contracts on the Flow Blockchain.
