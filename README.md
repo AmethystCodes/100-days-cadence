@@ -1,4 +1,4 @@
-# #100-days-of-cadence
+# #100DaysOfCadence
 
 Here is the repo where I'm tracking my 100 days of learning, coding, and researching Cadence.
 
