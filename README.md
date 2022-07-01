@@ -1,12 +1,12 @@
 # #100DaysOfCadence
 
-Here is the repo where I'm tracking my 100 days of learning, coding, and researching Cadence.
+Repo where I'm tracking my 100 days of learning, coding, and researching Cadence.
 
 | Start Date | End Date |
 | :--------: | :------: |
 | 06/22/22   | ⏳       |
 
-**Study Plan:** Minimum of 1 hour per day coding/reading/videos
+<mark>**Study Plan:** Minimum of 1 hour per day coding/reading/videos</mark>
 
 ## What is Cadence?
 
