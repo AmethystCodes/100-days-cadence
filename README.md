@@ -8,16 +8,16 @@ Here is the repo where I'm tracking my 100 days of learning, coding, and researc
 
 **Study Plan:** Minimum of 1 hour per day coding/reading/videos
 
-### What is Cadence?
+## What is Cadence?
 
 Cadence is the programming language used for smart contracts on the Flow Blockchain.
 
-### Resources 📚
+## 📚 Resources 
   * [Cadence Docs](https://docs.onflow.org/cadence/language/)
   * [Flow Playground](https://play.onflow.org/local-project)
   * [Emerald City Discord](https://discord.gg/emeraldcity)
 
-### Get in Touch 💻
+## 💻 Get in Touch 
  * [Twitter](https://twitter.com/AmethystCodes)
  * [Buildspace](https://buildspace.so/@amethyst)
  * [Hashnode](https://hashnode.com/@AmethystCodes)
