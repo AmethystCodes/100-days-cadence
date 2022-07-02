@@ -1,6 +1,6 @@
 ## 1/100 Days of Cadence
 
-### Contract that has 1 field and returns a resource
+Contract that has 1 field and returns a resource
 ```cadence
 pub contract Country {
 
@@ -25,7 +25,7 @@ pub contract Country {
 }
 ```
 
-### Transaction: Saves resource to account storage, loads the resource from account storage, logs a field inside the resource, and destroys the resource
+**Transaction:** Saves resource to account storage, loads the resource from account storage, logs a field inside the resource, and destroys the resource
 ```cadence
 import Country from 0x01
 
@@ -50,7 +50,7 @@ transaction() {
 
 ```
 
-### Transaction: Saves resource to account storage, borrows a reference to the resource and logs a field inside the resource
+**Transaction:** Saves resource to account storage, borrows a reference to the resource and logs a field inside the resource
 ```cadence
 import Country from 0x01
 
