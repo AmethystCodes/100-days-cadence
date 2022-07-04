@@ -1,4 +1,4 @@
-# Day 2/100DaysOfCadence
+## Day 2/100DaysOfCadence
 
 Contract with a resource that implements a resource interface:
 ```cadence
