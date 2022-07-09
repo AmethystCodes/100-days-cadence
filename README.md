@@ -1,4 +1,6 @@
-## #100DaysOfCadence
+![#100DaysOfCadence by @AmethystCodes Twitter](/images/githubpreview.png)
+
+### 📝 **Collection of notes, code snippets and more...**
 
 Repo where I'm tracking my 100 days of learning, coding, and researching Cadence.
 
