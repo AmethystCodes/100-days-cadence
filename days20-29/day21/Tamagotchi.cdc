@@ -1,4 +1,5 @@
 // Adapted from: https://nftschool.dev/tutorial/flow-nft-marketplace/#building-pet-store
+// #100DaysOfCadence
 
 pub contract Tamagotchi {
 
