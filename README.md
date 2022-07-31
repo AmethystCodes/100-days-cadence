@@ -19,6 +19,7 @@ Cadence is the programming language used for smart contracts on the Flow Blockch
   * [Flow Playground](https://play.onflow.org/local-project)
   * [Emerald City Discord](https://discord.gg/emeraldcity)
   * [CryptoDappy](https://www.cryptodappy.com/)
+  * [Get-The-Flow-Down: Flow Learning Resources](https://github.com/ph0ph0/Get-The-Flow-Down)
 
 ## 💻 Get in Touch 
  * [Twitter](https://twitter.com/AmethystCodes)
