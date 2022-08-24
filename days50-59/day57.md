@@ -2,9 +2,9 @@
 
 ### 🛠️ Build On Flow | Learn FCL Series
 
-[Build On Flow | Learn FCL: How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
+[How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
 
-[Build On Flow | Learn FCL: How to Query a Flow Account by Address](https://dev.to/onflow/build-on-flow-learn-fcl-7-how-to-query-flow-account-by-address-439d)
+[How to Query a Flow Account by Address](https://dev.to/onflow/build-on-flow-learn-fcl-7-how-to-query-flow-account-by-address-439d)
 
 * Query Latest Block in the Chain
 
