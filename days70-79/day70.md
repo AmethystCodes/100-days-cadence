@@ -38,3 +38,59 @@ for index, element in myArray {
   log(index)
 }
 ```
+* **Dictionary Entries**
+  * Use for-in loop to iterate over a dictionary's entries (keys and values)
+```cadence
+let myDictionary = {"hello": "Hello, World!", "bye": "Goodbye, World!"}
+
+for key in myDictionary.keys {
+  let value = myDictionary[key]!
+  log(key)
+  log(value)
+}
+```
+
+### `continue` and `break`
+* `continue` in while and for loops to stop the current loop and start a new one
+
+```cadence
+var i = 0
+var x = 0
+while i < 10 {
+  i = i + 1
+  if i < 3 {
+    continue
+  }
+  x = x + 1
+}
+
+let array = [2, 2, 3]
+var sum = 0
+for element in array {
+  if element == 2 {
+    continue
+  }
+  sum = sum + element
+}
+```
+* `break` is used to stop for or while loops
+
+```cadence
+var x = 0
+while x < 10 {
+  x = x + 1
+  if x == 5 {
+    break
+  }
+}
+
+let array = [1, 2, 3]
+var sum = 0
+for element in array {
+  if element == 2 {
+    break
+  }
+  sum = sum + element
+}
+
+```
