@@ -1,5 +1,7 @@
 ## Day 74/100 Days of Cadence
 
+[Flow Docs: Composite Types](https://developers.flow.com/cadence/language/composite-types#composite-type-subtyping)
+
 ## 💥Composite Types
 
 * Allow composing simpler types into more complex types -> allow the composition of multiple values into one
