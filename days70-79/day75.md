@@ -1,6 +1,6 @@
 ## Day 75/100 Days of Cadence
 
-[Composite Types](https://developers.flow.com/cadence/language/composite-types#composite-type-subtyping)
+[Flow Docs: Composite Types](https://developers.flow.com/cadence/language/composite-types#composite-type-subtyping)
 
 ## 💥Composite Types (cont.)
 
