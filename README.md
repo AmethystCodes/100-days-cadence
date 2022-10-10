@@ -6,7 +6,7 @@ Tracking my 100 days of learning, coding, and researching Cadence.
 
 | Start Date | End Date |
 | :--------: | :------: |
-| 06/22/22   | ⏳       |
+| 06/22/22   | 10/10/22       |
 
 <mark>**Study Plan:** Minimum of 1 hour per day coding/reading/videos</mark>
 
