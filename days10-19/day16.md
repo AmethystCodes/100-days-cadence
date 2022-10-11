@@ -121,7 +121,7 @@ transaction(recipient: Address, name: String, favouriteColor: String, luckyNumbe
 ```
 Script to read new totalSupply for contract after minting:
 ```cadence
-import BalloonBuddies from 0x02
+import MyNFTCollection from 0x02
 pub fun main(): UInt64 {
   let supply = MyNFTCollection.totalSupply
 
