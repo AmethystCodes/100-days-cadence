@@ -1,5 +1,6 @@
 ## Day 33/100 Days of Cadence
 
+### [Flow NFT Marketplace Guide](https://developers.flow.com/flow/nft-marketplace)
 ### [Emerald City Dapp Course](https://github.com/emerald-dao/beginner-dapp-course)
 
 **Chapter 3.0 Day 2 Quests**
