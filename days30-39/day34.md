@@ -30,6 +30,7 @@ After, deploy that contract to the same testnet account you generated today.
 **3. Send a screenshot of you changing the variable from your new contract using the Flow CLI**
 
 ![changeFruit](https://github.com/AmethystCodes/ec-beginner-dapp-course/blob/main/images/changeFruit.png)
+
 **4. Send a screenshot of you reading your changed variable from your new contract using the Flow CLI**
 
 ![readUpdatedFruit](https://github.com/AmethystCodes/ec-beginner-dapp-course/blob/main/images/readFruitUpdated.png)
